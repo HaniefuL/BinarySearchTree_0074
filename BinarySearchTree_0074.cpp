@@ -26,5 +26,7 @@ public:
     BinaryTree()
     {
         ROOT = NULL; // Initializing ROOT to null
-    }    
+    }
+
+ void insert(string element){}
 };
